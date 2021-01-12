@@ -19,6 +19,7 @@
         1. I can try to understand the problem by messing with the code. ("Which sometimes is not the best option")
         2. I can learn about the specific Web Technology that is part of the problem from a reliable resource.
         3. If I am lost and there is no value in spending hours on finding the root of the problem; then, I ask for the advise of an expert.("With a well defined                question")
+     
      b. If I don't understand the problem; then, I can't move to the next step.
   2. After I understand the problem, I plan about what tools do I need to have or to know so I will be ready to resolve it.
   3. I implement my ideas.
