@@ -4,14 +4,6 @@
 
 ![html](logos/html.png)![css](logos/css.png)![js](logos/js.png)![node](logos/node.png)![react](logos/react.png)![bootstrap](logos/bootstrap.png)![sql](logos/sql.png)![mongoDB](logos/mongo_db.png)![terminal](logos/terminal.png)
 
-### Facts about me.
-
-- In last 6 years, I lived in 5 countries. Moldova-born-country | Russia-work | Romania-study | Poland-internship | USA-currently.
-- For me programming is a way to understand the complexity of todays world, so when I will be enough knowledgeable, I will create something special by myself.
-- I never forget concepts; however, I might forget facts. "Thanks God that there is Google."
-- Many things I cannot control, but I play chess and do boxing to keep and even improve my general shape.
-- Cool things I like to do: 1. Joking with friends 2. Hand Fishing 3. Mushroom searching 4. Mountain Climbing 5. Discovering the reasons of any thing or event.
-
 ### How do I deal with tough problem/bugs in Web Development?
 
 First Note: In my opinion, any problem that is subdued to mathematical or physics laws can be resolved.
