@@ -1,4 +1,4 @@
-## Hi
+## Hi!
 
 ## Languages and Technologies
 
